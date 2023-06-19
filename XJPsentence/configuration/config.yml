@@ -1,0 +1,21 @@
+# Crawler resource configuration
+
+data_url: "http://jhsjk.people.cn/result?"
+json_url: "http://jhsjk.people.cn/testnew/result?"
+article_url: "http://jhsjk.people.cn/article/{id}"
+
+params:
+  keywords: '' # str ''
+  isFuzzy: 0 # int 0
+  searchArea: 0 # int 0
+  year: 0 # int 0
+  form: 0 # int 0
+  type: 108 # int 108(外交) 102(政治)
+  page: 1 # int
+  origin: '全部' # str '全部'
+  source: 2 # int 2
+
+
+# Crawler parameter setting
+crawl_page: 0
+
