@@ -207,45 +207,45 @@ def plot_wordcloud(data):
 
 > 2013
 
-![](D:\Users\DanYang\Desktop\习近平外交语录分析\image\2013.png)
+![](image/2013.png)
 
 > 2014
 
-![](D:\Users\DanYang\Desktop\习近平外交语录分析\image\2014.png)
+![](image/2014.png)
 
 > 2015
 
-![](D:\Users\DanYang\Desktop\习近平外交语录分析\image\2015.png)
+![](image/2015.png)
 
 > 2016
 
-![](D:\Users\DanYang\Desktop\习近平外交语录分析\image\2016.png)
+![](image/2016.png)
 
 > 2017
 
-![](D:\Users\DanYang\Desktop\习近平外交语录分析\image\2017.png)
+![](image/2017.png)
 
 > 2018
 
-![](D:\Users\DanYang\Desktop\习近平外交语录分析\image\2018.png)
+![](image/2018.png)
 
 > 2019
 
-![](D:\Users\DanYang\Desktop\习近平外交语录分析\image\2019.png)
+![](image/2019.png)
 
 > 2020
 
-![](D:\Users\DanYang\Desktop\习近平外交语录分析\image\2020.png)
+![](image/2020.png)
 
 > 2021
 
-![](D:\Users\DanYang\Desktop\习近平外交语录分析\image\2021.png)
+![](image/2021.png)
 
 > 2022
 
-![](D:\Users\DanYang\Desktop\习近平外交语录分析\image\2022.png)
+![](image/2022.png)
 
 > 2023
 
-![](D:\Users\DanYang\Desktop\习近平外交语录分析\image\2023.png)
+![](image/2023.png)
 
